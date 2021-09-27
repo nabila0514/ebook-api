@@ -1,0 +1,11 @@
+{
+         "nama" : "Nabila Ayu", 
+         "kelas" : "XII RPL 4",
+         "semester" : 5,
+         "Hobby" : ["masak","makan"],
+         "Mapel" : {
+         "kk2" : "database",
+         "kk4" : "mobile dan web "
+  
+ }
+}
